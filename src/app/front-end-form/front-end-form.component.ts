@@ -72,5 +72,4 @@ export class FrontEndFormComponent {
       console.log(this.myForm.value);
     }
   }
-
 }
